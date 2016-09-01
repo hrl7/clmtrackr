@@ -621,3 +621,4 @@ var pModel = {
     "nose": [56.997384601005933, 50.86720524009678]
   }
 };
+module.exports = pModel;

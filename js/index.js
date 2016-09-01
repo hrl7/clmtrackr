@@ -11,5 +11,6 @@
  */
 
 var clm = require('./clm.js');
+var PCA20SVMModel = require('../models/model_pca_20_svm');
 
-module.exports = clm;
+module.exports = {clm, PCA20SVMModel};
